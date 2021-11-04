@@ -1,1 +1,1 @@
-
+![](Package factory_pattern.png)
