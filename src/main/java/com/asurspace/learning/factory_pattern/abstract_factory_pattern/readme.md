@@ -1,2 +1,2 @@
 # Abstract Factory
-![Developer Factory](abstract factory.png)
+![Developer Factory](abstract_factory.png)
