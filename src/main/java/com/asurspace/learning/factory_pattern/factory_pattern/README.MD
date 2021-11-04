@@ -1,1 +1,1 @@
-![Developer Factory](factory.png)
+![Developer Factory](Package factory_pattern.png)
