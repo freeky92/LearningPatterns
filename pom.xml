@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.asurspace.learning</groupId>
-    <artifactId>LearningPattern</artifactId>
+    <artifactId>LearningPatterns</artifactId>
     <version>1.0.0</version>
     <build>
         <plugins>
