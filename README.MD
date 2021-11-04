@@ -1,7 +1,7 @@
 # Samples of programming patterns
 
-__1.__ [**🏭Factory**][1]  
-__2.__ [**🏭Abstract factory**][2]  
+__1.__ 🏭 [**Factory**][1]  
+__2.__ 🏭 [**Abstract factory**][2]  
 __3.__ [**1**][3]
 
 
