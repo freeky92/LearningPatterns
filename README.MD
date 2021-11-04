@@ -1,6 +1,6 @@
 # Samples of programming patterns
 
-__1.__ [**Factory pattern**] [1]
+__1.__ [Factory pattern] [1]
 
 
 
