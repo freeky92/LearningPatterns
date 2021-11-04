@@ -1,5 +1,4 @@
-# Samples of programming patterns
-
+# Examples of programming patterns implemented in code  
 __1.__ 🏭 [**Factory**][1]  
 __2.__ 🏭 [**Abstract factory**][2]  
 __3.__ 🙋‍♂️ [**Singleton**][3]
